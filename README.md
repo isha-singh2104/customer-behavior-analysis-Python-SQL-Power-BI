@@ -136,7 +136,8 @@ Correlation analysis
 Outlier analysis
 Relationship between important variables
 
-**Key Questions Explored**
+**Key Questions Explored** :
+
 What are the overall business trends?
 Which categories perform the best?
 Which products contribute the most?
