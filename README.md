@@ -68,21 +68,8 @@ The dataset was first loaded into Python and examined to understand:
 
 # 🔄 Project Workflow
 
-Raw Dataset -->
+Raw Dataset --> Data Loading using Python --> Data Exploration --> Data Cleaning & Preprocessing --> Exploratory Data Analysis (EDA) --> SQL Analysis --> Power BI Dashboard --> Business Insights -->
      
-Data Loading using Python -->
-     
-Data Exploration -->
-     
-Data Cleaning & Preprocessing -->
-     
-Exploratory Data Analysis (EDA) -->
-     
-SQL Analysis -->
-     
-Power BI Dashboard -->
-     
-Business Insights -->
      
 Report & Presentation
 
