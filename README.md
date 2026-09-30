@@ -136,16 +136,6 @@ Correlation analysis
 Outlier analysis
 Relationship between important variables
 
-**Key Questions Explored** :
-
--What are the overall business trends?
--Which categories perform the best?
--Which products contribute the most?
--Which customer segments generate the most value?
--How does performance change over time?
--Which regions perform better?
--Are there any unusual patterns or outliers?
-
 
 **🗄️ 5. SQL Database Analysis**
 
